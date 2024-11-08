@@ -1,0 +1,29 @@
+/* CSSReset */
+
+*{margin: 0;
+padding: 0;
+}
+
+/* CSS Variable */
+:root{
+--navbar-height: 50px;
+
+}
+/* Navigartion Bar */
+#navbar{
+display :flex;
+align-items: center;
+}
+
+/* Navigation Bar : logo and image */
+#logo{
+    height: 50px  ;
+margin: 10px 5px;
+}
+#logo img{
+height: 5px;
+margin: 5px
+
+}
+
+
